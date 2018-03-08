@@ -1,9 +1,6 @@
 var csv = require('csv');
-const fs = require("fs");
 
-module.exports = function parseCsv(filename) {
-    var file = fs.readFileSync(filename, { encoding: "utf8" });
-
+module.exports = function parseCsv(file) {
     return new Promise((resolve, reject) => {
         csv.parse(file, function(err, data) {
             if( err ) {

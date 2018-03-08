@@ -1,5 +1,4 @@
 require("dotenv-safe").config();
-const { CSV_FILE_NAME } = process.env;
 const fs = require("fs");
 const util = require("util");
 const promptFilename = require('./helpers/promptFilename');
@@ -12,9 +11,10 @@ const displayResult = require("./helpers/displayResult");
 const logger = require("./helpers/logger");
 const { pipe } = require("ramda");
 
+const filename = process.argv[2];
+var file = fs.readFileSync(filename, { encoding: "utf8" });
 
-promptFilename()
-    .then(parseCsv)
+parseCsv(file)
     .then(pipe(
         validateHeaderColumns,
         constructZones,

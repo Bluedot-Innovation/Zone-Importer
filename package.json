@@ -2,9 +2,6 @@
   "name": "bluedot-csv-uploader",
   "version": "0.0.1",
   "private": true,
-  "scripts": {
-    "start": "node src/index.js"
-  },
   "dependencies": {
     "colors": "^1.1.2",
     "csv": "*",

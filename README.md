@@ -8,9 +8,9 @@ API_KEY=<Add key here>
 CSV_FILE_NAME=<Add file name here>
 ```
 
-## CSV Files
+## Example CSV files
 
-The importer will read CSV files from the /csv folder. We've provided some example CSVs in this folder.
+We've provided some example CSVs in this folder in the `/csv` folder.
 
 ## Additional info
 
@@ -22,8 +22,10 @@ Please make sure you are running at least node version 6, as this code uses feat
 
 ## Running the script
 
-To run the script, execute the following commands from your CLI.
+To run the script, execute the following commands from your CLI. First install with:
 
 `npm install`
 
-`npm start`
+To run the import on a CSV run:
+
+`node src/index.js <path_to_filename>`
