@@ -1,0 +1,6193 @@
+{
+  "zoneName": "Oporto - Adelaide CBD City Cross",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.9230109",
+          "longitude": "138.6009744"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Adelaide CBD City Cross"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Adelaide CBD Pulteney St",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.9302094",
+          "longitude": "138.6056898"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Adelaide CBD Pulteney St"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Albion Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.5520084",
+          "longitude": "150.7890541"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Albion Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Auburn",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8508796",
+          "longitude": "151.0327417"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Auburn"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Auburn Redyard",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8469073",
+          "longitude": "151.043608"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Auburn Redyard"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Balcatta",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-31.861399",
+          "longitude": "115.8269732"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Balcatta"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Bankstown Centro",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.916702",
+          "longitude": "151.038817"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bankstown Centro"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Bankstown Home Central",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9325662",
+          "longitude": "151.0284788"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bankstown Home Central"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Bass Hill",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.899699",
+          "longitude": "150.99337"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bass Hill"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Belconnen",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.2378798",
+          "longitude": "149.0652078"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Belconnen"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Bentley",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.0005884",
+          "longitude": "115.9186872"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bentley"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Berkeley Vale",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.3613829",
+          "longitude": "151.4439127"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Berkeley Vale"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Bexley",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9494737",
+          "longitude": "151.1150326"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bexley"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Blacktown",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7703519",
+          "longitude": "150.9059427"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Blacktown"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Bolivar",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.7690007",
+          "longitude": "138.5929794"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bolivar"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Bondi Beach",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8904608",
+          "longitude": "151.2743232"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bondi Beach"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Brighton le Sands",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9605382",
+          "longitude": "151.1547904"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Brighton le Sands"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Brisbane CBD Queens Plaza",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.4681412",
+          "longitude": "153.0265352"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Brisbane CBD Queens Plaza"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "6:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Broadway",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8842527",
+          "longitude": "151.1952129"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Broadway"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "7:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Brompton",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.89562",
+          "longitude": "138.5814713"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Brompton"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Bundamba (Citiswich)",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.5904592",
+          "longitude": "152.8293214"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Bundamba (Citiswich)"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Burwood",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.874758",
+          "longitude": "151.105232"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Burwood"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Campbelltown Macarthur Square",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.074829",
+          "longitude": "150.797835"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Campbelltown Macarthur Square"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Campbelltown Mall",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.0688552",
+          "longitude": "150.8108866"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Campbelltown Mall"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Canberra Centre",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.2796166",
+          "longitude": "149.1333432"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Canberra Centre"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Canberra Civic",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.2783046",
+          "longitude": "149.1325248"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Canberra Civic"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Canning Vale",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.0887546",
+          "longitude": "115.9177725"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Canning Vale"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Carindale",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.5016389",
+          "longitude": "153.1030434"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Carindale"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Carlingford",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.776995",
+          "longitude": "151.052127"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Carlingford"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Castle Towers",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7304839",
+          "longitude": "151.0053721"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Castle Towers"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Casula",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.956009",
+          "longitude": "150.892226"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Casula"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Cessnock",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.8299947",
+          "longitude": "151.3555164"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Cessnock"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Charlestown Square",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.9633392",
+          "longitude": "151.6949376"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Charlestown Square"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Chatswood Chase",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7941762",
+          "longitude": "151.1860217"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Chatswood Chase"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Chatswood Westfield",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7968921",
+          "longitude": "151.1841106"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Chatswood Westfield"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Chermside",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.3847029",
+          "longitude": "153.0320632"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Chermside"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Clarendon",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.6082628",
+          "longitude": "150.788929"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Clarendon"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Coogee",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9186642",
+          "longitude": "151.257264"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Coogee"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Cronulla",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.0548865",
+          "longitude": "151.1529136"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Cronulla"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Darling Harbour",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8718137",
+          "longitude": "151.1986625"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Darling Harbour"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "1:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Dee Why",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7525391",
+          "longitude": "151.2869282"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Dee Why"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - DFO Homebush",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8553308",
+          "longitude": "151.0773238"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "DFO Homebush"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Double Bay",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8778759",
+          "longitude": "151.2423168"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Double Bay"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "12:30:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Dubbo",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.2466929",
+          "longitude": "148.5939566"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Dubbo"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Dural",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.6975965",
+          "longitude": "151.0317104"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Dural"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Earlwood",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.926566",
+          "longitude": "151.1279881"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Earlwood"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Eastgardens",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.944835",
+          "longitude": "151.223295"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Eastgardens"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Edmondson Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9558375",
+          "longitude": "150.8557324"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Edmondson Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Entertainment Quarter",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8942376",
+          "longitude": "151.227499"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Entertainment Quarter"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Erina Fair",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.4373355",
+          "longitude": "151.3926419"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Erina Fair"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Fortitude Valley",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.457802",
+          "longitude": "153.0338635"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Fortitude Valley"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "4:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Fountain Gate",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-38.0176931",
+          "longitude": "145.303803"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Fountain Gate"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Frankston",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-38.1411382",
+          "longitude": "145.1246478"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Frankston"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Gateshead",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.9874345",
+          "longitude": "151.692402"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Gateshead"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "6:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Gateway Plaza",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "",
+          "longitude": ""
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Gateway Plaza"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Gladesville",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8269828",
+          "longitude": "151.1266353"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Gladesville"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Glenmore Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7873626",
+          "longitude": "150.66861"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Glenmore Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Glenside",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.9399501",
+          "longitude": "138.6340583"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Glenside"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Gold Coast Cavill Ave",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-28.0020116",
+          "longitude": "153.4295369"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Gold Coast Cavill Ave"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "am",
+      "time": "4:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Greenacre",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9046147",
+          "longitude": "151.0648619"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Greenacre"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Gregory Hills",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.0218469",
+          "longitude": "150.760816"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Gregory Hills"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Greystanes",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8143395",
+          "longitude": "150.9637003"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Greystanes"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "am",
+      "time": "2:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Guildford",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8480623",
+          "longitude": "150.9969554"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Guildford"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Gungahlin",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.1853549",
+          "longitude": "149.1335246"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Gungahlin"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Harbour Town",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.933961",
+          "longitude": "153.388448"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Harbour Town"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Hawthorn",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-37.8212264",
+          "longitude": "145.0364647"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Hawthorn"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Haymarket",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8791562",
+          "longitude": "151.2035788"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Haymarket"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "6:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Heathwood",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.6302976",
+          "longitude": "152.9877463"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Heathwood"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Highpoint",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-37.7738794",
+          "longitude": "144.8861296"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Highpoint"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Hillbank",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.742707",
+          "longitude": "138.6770026"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Hillbank"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Holmview",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.7092186",
+          "longitude": "153.161103"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Holmview"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Hurstville",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9657586",
+          "longitude": "151.1050478"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Hurstville"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "8:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Joondalup",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-31.7436881",
+          "longitude": "115.76751"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Joondalup"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Kingscross",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8743279",
+          "longitude": "151.2233298"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Kingscross"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "4:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Kingsford",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9211584",
+          "longitude": "151.2262657"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Kingsford"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Kogarah",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9624658",
+          "longitude": "151.1326345"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Kogarah"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Kotara",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.9421105",
+          "longitude": "151.7112563"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Kotara"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Little River - Eastbound",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-38.001506",
+          "longitude": "144.4915555"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Little River - Eastbound"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Little River - Westbound",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-38.0027102",
+          "longitude": "144.4923538"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Little River - Westbound"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Littlehampton",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.049539",
+          "longitude": "138.859476"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Littlehampton"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Liverpool Mega Centre",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9085418",
+          "longitude": "150.9192051"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Liverpool Mega Centre"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "3:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Liverpool Westfield",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9185438",
+          "longitude": "150.9245814"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Liverpool Westfield"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "8:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - M4 Eastern Creek",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.801622",
+          "longitude": "150.887729"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "M4 Eastern Creek"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "6:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Macquarie Centre",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7768102",
+          "longitude": "151.1204625"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Macquarie Centre"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Majura Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.299315",
+          "longitude": "149.190925"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Majura Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "8:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Marion",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.0158436",
+          "longitude": "138.5436936"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Marion"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Maroochydore Sunshine Plaza",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-26.655081",
+          "longitude": "153.088388"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Maroochydore Sunshine Plaza"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Marrickville",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9105782",
+          "longitude": "151.156987"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Marrickville"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Mawson Lakes",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.805169",
+          "longitude": "138.614771"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Mawson Lakes"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Meadowbrook",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.6627591",
+          "longitude": "153.1408213"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Meadowbrook"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Melbourne Airport Qantas",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-37.6727334",
+          "longitude": "144.8500747"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Melbourne Airport Qantas"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "5:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Melbourne CBD Melbourne Central",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-37.8105415",
+          "longitude": "144.9626547"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Melbourne CBD Melbourne Central"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Merrylands",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8362916",
+          "longitude": "150.9872418"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Merrylands"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Merrylands Stockland",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.834497",
+          "longitude": "150.9894153"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Merrylands Stockland"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "7:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Miranda",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.035057",
+          "longitude": "151.100356"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Miranda"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Mt Druitt",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.766384",
+          "longitude": "150.819377"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Mt Druitt"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "7:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Mt Gravatt",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.5622152",
+          "longitude": "153.0810229"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Mt Gravatt"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Mt Ommaney",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.5495586",
+          "longitude": "152.9388412"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Mt Ommaney"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "4:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Munno Para West",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.6723329",
+          "longitude": "138.6813186"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Munno Para West"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Myer Centre",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.4706761",
+          "longitude": "153.0248378"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Myer Centre"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Newtown",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8979183",
+          "longitude": "151.1773494"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Newtown"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "am",
+      "time": "4:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - North Sydney",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8393195",
+          "longitude": "151.2080229"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "North Sydney"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "7:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Norwest",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.73289",
+          "longitude": "150.962753"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Norwest"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "7:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Nowra Stockland",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.8764885",
+          "longitude": "150.6069242"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Nowra Stockland"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "7:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Paddington Oxford St",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8778968",
+          "longitude": "151.2135942"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Paddington Oxford St"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Padstow",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9439754",
+          "longitude": "151.035082"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Padstow"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Parramatta Westfield Level 1",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8173161",
+          "longitude": "151.0013472"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Parramatta Westfield Level 1"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "8:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Parramatta Westfield Level 5",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8173161",
+          "longitude": "151.0013472"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Parramatta Westfield Level 5"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "7:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Peninsula Link - Northbound",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-38.204121",
+          "longitude": "145.1333781"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Peninsula Link - Northbound"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Peninsula Link - Southbound",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-38.2053091",
+          "longitude": "145.1364315"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Peninsula Link - Southbound"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Penrith",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.751239",
+          "longitude": "150.692457"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Penrith"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Perth CBD Carillon",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-31.953595",
+          "longitude": "115.857054"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Perth CBD Carillon"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Peterhead",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.832452",
+          "longitude": "138.5009612"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Peterhead"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Plumpton",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7443626",
+          "longitude": "150.8426711"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Plumpton"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "6:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "1:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Port Pirie",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.1984269",
+          "longitude": "137.9973152"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Port Pirie"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Prairiewood",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8710851",
+          "longitude": "150.9030898"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Prairiewood"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Randwick",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.9148385",
+          "longitude": "151.2403747"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Randwick"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Reynella",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.096178",
+          "longitude": "138.5362911"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Reynella"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Rhodes",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8350723",
+          "longitude": "151.0851668"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Rhodes"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "8:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Robina",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-28.0807799",
+          "longitude": "153.3846359"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Robina"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Rose Bay",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8703947",
+          "longitude": "151.2688934"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Rose Bay"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Roselands Centro",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.935057",
+          "longitude": "151.069044"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Roselands Centro"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Roselands Drive Thru",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.930659",
+          "longitude": "151.0679198"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Roselands Drive Thru"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "2:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Rouse Hill",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.691051",
+          "longitude": "150.927122"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Rouse Hill"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Roxburgh Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-37.647076",
+          "longitude": "144.9312774"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Roxburgh Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "3:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Rutherford",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-32.7094572",
+          "longitude": "151.5171143"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Rutherford"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "6:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Shellharbour",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.563308",
+          "longitude": "150.839788"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Shellharbour"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - South Melbourne",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-37.8323049",
+          "longitude": "144.9606777"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "South Melbourne"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - South Nowra",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.9039148",
+          "longitude": "150.6026861"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "South Nowra"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - South Perth",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-31.974745",
+          "longitude": "115.883339"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "South Perth"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "1:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - South Strathfield",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8874628",
+          "longitude": "151.0730674"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "South Strathfield"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - St Leonards",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8229011",
+          "longitude": "151.1946753"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "St Leonards"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Stanhope Gardens",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.7186167",
+          "longitude": "150.9200078"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Stanhope Gardens"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "7:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Strathfield Plaza",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8730093",
+          "longitude": "151.0931772"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Strathfield Plaza"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Surry Hills",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8861304",
+          "longitude": "151.208034"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Surry Hills"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Sydney CBD Central Station",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8839376",
+          "longitude": "151.20398"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Sydney CBD Central Station"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "8:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Sydney CBD Sydney Central Plaza",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8704761",
+          "longitude": "151.2071173"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Sydney CBD Sydney Central Plaza"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "8:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Sydney CBD The Galeries",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8725518",
+          "longitude": "151.2076174"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Sydney CBD The Galeries"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "7:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Sydney Olympic Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8488593",
+          "longitude": "151.0673772"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Sydney Olympic Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Tamworth DT",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-31.0957645",
+          "longitude": "150.9372339"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Tamworth DT"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Taren Point",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.0281766",
+          "longitude": "151.1201673"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Taren Point"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - TestNewStore",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-28.7593857",
+          "longitude": "114.6248189"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "TestNewStore"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - The Barracks",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.4651348",
+          "longitude": "153.013628"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "The Barracks"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Thorngate",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.6814848",
+          "longitude": "138.6942184"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Thorngate"
+          }
+        ]
+      }
+    ]
+  },
+  "activeAllDay": true
+}
+{
+  "zoneName": "Oporto - Toowoomba",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-27.585316",
+          "longitude": "151.9487966"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Toowoomba"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "10:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "10:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Top Ryde",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.812193",
+          "longitude": "151.106395"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Top Ryde"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Townsville",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-19.3195",
+          "longitude": "146.713771"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Townsville"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "5:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Tranmere",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.9044008",
+          "longitude": "138.6579398"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Tranmere"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Tuggerah",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.309029",
+          "longitude": "151.412039"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Tuggerah"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "7:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Tuggeranong",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.4164871",
+          "longitude": "149.0672505"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Tuggeranong"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Vincentia",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-35.0751823",
+          "longitude": "150.6562755"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Vincentia"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Warringah Mall",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.763791",
+          "longitude": "151.263747"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Warringah Mall"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "6:30"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Westmead",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8055772",
+          "longitude": "150.9892721"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Westmead"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "9:00"
+    },
+    "to": {
+      "period": "pm",
+      "time": "9:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Wetherill Park",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-33.8496416",
+          "longitude": "150.9010633"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Wetherill Park"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:00"
+    },
+    "to": {
+      "period": "am",
+      "time": "0:00"
+    }
+  }
+}
+{
+  "zoneName": "Oporto - Woodbine",
+  "minimumRetriggerTime": "01:00",
+  "enableCheckOut": true,
+  "fences": {
+    "circles": [
+      {
+        "name": "30m radius fence around store",
+        "color": "#0000ff",
+        "radius": 30,
+        "center": {
+          "latitude": "-34.0479986",
+          "longitude": "150.8273659"
+        }
+      }
+    ]
+  },
+  "actions": {
+    "customActions": [
+      {
+        "name": "Trigger Salesforce interaction",
+        "customFields": [
+          {
+            "key": "store-name",
+            "value": "Woodbine"
+          }
+        ]
+      }
+    ]
+  },
+  "timeActive": {
+    "from": {
+      "period": "am",
+      "time": "8:30"
+    },
+    "to": {
+      "period": "pm",
+      "time": "11:30"
+    }
+  }
+}
