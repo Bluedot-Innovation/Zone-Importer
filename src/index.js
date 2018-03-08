@@ -14,18 +14,12 @@ const { pipe } = require("ramda");
 
 
 promptFilename()
-.then(filename => {
-    // var file = fs.readFileSync(filename, { encoding: "utf8" });
-
-    parseCsv(filename)
-        .then(
-            pipe(
-                validateHeaderColumns,
-                constructZones,
-                wrapInRequestBody,
-                postToApi,
-            )
-        )
-        .then(displayResult)
-        .catch(console.error);
-}).catch(console.error);
+    .then(parseCsv)
+    .then(pipe(
+        validateHeaderColumns,
+        constructZones,
+        wrapInRequestBody,
+        postToApi,
+    ))
+    .then(displayResult)
+    .catch(console.error);
