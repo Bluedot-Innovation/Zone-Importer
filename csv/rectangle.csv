@@ -1,2 +1,2 @@
 zoneName,minimumRetriggerTime,fences,messageActions,timeActive,enableCheckOut
-Melbourne Zoo (Rectangle),0:40,rectangle;-37.788963175233846/144.9568748474121;-37.779059378242685/144.93979454040527,Example title;Example message goes here,09:00;15:00,true
+Melbourne Zoo (Rectangle),0:40,rectangle;-37.788963175233846 144.9568748474121;-37.779059378242685 144.93979454040527,Example title;Example message goes here,09:00;15:00,true

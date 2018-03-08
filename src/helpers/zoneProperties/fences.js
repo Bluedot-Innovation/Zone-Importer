@@ -76,7 +76,7 @@ const handle = {
 }
 
 const convertLatLngToObject = (latLng) => {
-    const split = latLng.split('/');
+    const split = latLng.split(' ');
     return {
         latitude: split[0],
         longitude: split[1],

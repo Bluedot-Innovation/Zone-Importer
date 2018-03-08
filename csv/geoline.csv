@@ -1,2 +1,2 @@
 zoneName,minimumRetriggerTime,fences,messageActions,timeActive,enableCheckOut
-Carrera 42b (Geoline),0:40,geoline;6.179072931544306/-75.58194100856781;6.178843601632543/-75.58154940605164,Example title;Example message goes here,09:00;15:00,true
+Carrera 42b (Geoline),0:40,geoline;6.179072931544306 -75.58194100856781;6.178843601632543 -75.58154940605164,Example title;Example message goes here,09:00;15:00,true
