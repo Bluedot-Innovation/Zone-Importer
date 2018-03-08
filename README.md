@@ -8,6 +8,10 @@ API_KEY=<Add key here>
 CSV_FILE_NAME=<Add file name here>
 ```
 
+## CSV Files
+
+The importer will read CSV files from the /csv folder. We've provided some example CSVs in this folder.
+
 ## Additional info
 
 A custom action is automatically added on to the zones to make sure the SDKs call back the mobile app when users visit the zones.
