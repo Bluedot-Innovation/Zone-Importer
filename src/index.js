@@ -15,9 +15,9 @@ const { pipe } = require("ramda");
 
 promptFilename()
 .then(filename => {
-    var file = fs.readFileSync(filename, { encoding: "utf8" });
+    // var file = fs.readFileSync(filename, { encoding: "utf8" });
 
-    parseCsv(file)
+    parseCsv(filename)
         .then(
             pipe(
                 validateHeaderColumns,
