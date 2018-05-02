@@ -18,8 +18,6 @@ exports.messageActions = (zone, cellData) => {
 }
 
 exports.customActions = (zone, cellData) => {
-    console.log('zone',zone)
-    console.log('cellData',cellData)
     if (!zone.actions) {
         zone.actions = {};
     }
