@@ -36,12 +36,12 @@ module.exports = (zone, cellData) => {
     zone.fences = fences;
 }
 
-const handlePoly = (polygon) => {
+const handlePoly = (name) => (polygon) => {
     const [prefix, ...csvVertices] = polygon.split(';');
     const vertices = csvVertices.map(vertex => convertLatLngToObject(vertex));
 
     return {
-        name: 'A Polygonal Fence',
+        name,
         color: randomColor(),
         vertices,
     }
@@ -53,7 +53,7 @@ const handle = {
         const southWest = rectangle.split(';')[2];
 
         return {
-            name: "A bounding box with north east and south west",
+            name: 'Rectangle',
             color: randomColor(),
             // "order": 1,
             northEast: convertLatLngToObject(northEast),
@@ -65,14 +65,14 @@ const handle = {
         const center = circle.split(';')[2];
 
         return {
-            name: 'Test Circular fence with 8M radius',
+            name: 'Circle',
             color: randomColor(),
             radius,
             center: convertLatLngToObject(center),
         }
     },
-    polygons: handlePoly,
-    polylines: handlePoly,
+    polygons: handlePoly('Polygon'),
+    polylines: handlePoly('Geoline'),
 }
 
 const convertLatLngToObject = (latLng) => {
