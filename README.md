@@ -28,6 +28,12 @@ The times in which the fences can be triggered.
 - Syntax: `<start time>;<end time>`
 - Example: `09:00;15:00`
 
+### Custom actions
+
+- Syntax: `<action name>;<custom field key>;<custom field value>;<...unlimited keys/values>`
+- Example: `Custom Action Name;foo;bar;baz;qux`
+
+
 ### Fences
 
 Rectangle:

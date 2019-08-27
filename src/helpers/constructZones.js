@@ -3,6 +3,7 @@ const timeActive = require('./zoneProperties/timeActive');
 const enableCheckOut = require('./zoneProperties/enableCheckOut');
 const fences = require('./zoneProperties/fences');
 const actions = require('./zoneProperties/actions');
+const addDefaults = require('./addDefaults');
 
 module.exports = function constructZones(data) {
     const [headerRow, ...rows] = data;
@@ -33,8 +34,10 @@ module.exports = function constructZones(data) {
             }
         });
 
-        // console.log(util.inspect(zone, { showHidden: true, depth: null }))
+        // Add defaults for any missing data
+        addDefaults(zone);
 
+        // console.log(util.inspect(zone, { showHidden: true, depth: null }))
         return zone;
     })
 

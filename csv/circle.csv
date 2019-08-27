@@ -1,2 +1,2 @@
-zoneName,minimumRetriggerTime,fences,messageActions,timeActive,enableCheckOut
-Public Library (Circle),0:40,circle;120;35.67243907154856 139.70612481236458,Example title;Example message goes here,09:00;15:00,true
+zoneName,minimumRetriggerTime,fences,customActions,messageActions,timeActive,enableCheckOut
+Public Library (Circle),0:40,circle;120;35.67243907154856 139.70612481236458,Spam salad;foo;bar;baz;qux,Example title;Example message goes here,09:00;15:00,TRUE

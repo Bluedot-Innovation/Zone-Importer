@@ -22,31 +22,24 @@ exports.customActions = (zone, cellData) => {
         zone.actions = {};
     }
 
-    zone.actions.customActions = [
-        {
-            name: 'Notify application - '
+    if (cellData) {
+        if (!zone.actions) {
+            zone.actions = {};
         }
-    ]
 
+        const split = cellData.split(';');
+        const [name, ...keyValuePairs] = split;
+        const customFields = convertKeyValueArrayToObjects(keyValuePairs);
 
-    // This code allows the user to add custom actions in the csv file. Disabled
-    // for now, and default above is used.
-    // if (cellData) {
-    //     if (!zone.actions) {
-    //         zone.actions = {};
-    //     }
-    //
-    //     const split = cellData.split(';');
-    //     const [name, ...keyValuePairs] = split;
-    //     const customFields = convertKeyValueArrayToObjects(keyValuePairs);
-    //
-    //     zone.actions.customActions = [
-    //         {
-    //             name,
-    //             customFields,
-    //         }
-    //     ]
-    // }
+        zone.actions.customActions = [
+            {
+                name,
+                customFields,
+            }
+        ]
+    } else {
+        zone.actions.customActions = [{ name: 'Notify application - ' }]
+    }
 }
 
 /**
