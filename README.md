@@ -30,7 +30,7 @@ The times in which the fences can be triggered.
 
 ### Custom actions
 
-- Syntax: `<action name>;<custom field key>;<custom field value>;<...unlimited keys/values>`
+- Syntax: `<action name>;<custom field key1>;<custom field value1>;<...custom field key5/custom field value5>`
 - Example: `Custom Action Name;foo;bar;baz;qux`
 
 
