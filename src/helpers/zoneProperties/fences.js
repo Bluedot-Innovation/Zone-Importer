@@ -7,6 +7,8 @@ const FENCE_TYPES = {
     geoline: 'polylines',
 }
 
+let zoneName;
+
 module.exports = (zone, cellData) => {
     let fences = {
         circles: [],
@@ -14,6 +16,8 @@ module.exports = (zone, cellData) => {
         polygons: [],
         polylines: [],
     };
+
+    zoneName = zone.zoneName;
     const csvFormattedFences = cellData.split('|');
 
     if (csvFormattedFences.length > 5) {
@@ -41,7 +45,7 @@ const handlePoly = (name) => (polygon) => {
     const vertices = csvVertices.map(vertex => convertLatLngToObject(vertex));
 
     return {
-        name,
+        name: `${zoneName} - ${name}`,
         color: randomColor(),
         vertices,
     }
@@ -53,7 +57,7 @@ const handle = {
         const southWest = rectangle.split(';')[2];
 
         return {
-            name: 'Rectangle',
+            name: `${zoneName} - Rectangle`,
             color: randomColor(),
             // "order": 1,
             northEast: convertLatLngToObject(northEast),
@@ -65,7 +69,7 @@ const handle = {
         const center = circle.split(';')[2];
 
         return {
-            name: 'Circle',
+            name: `${zoneName} - Circle`,
             color: randomColor(),
             radius,
             center: convertLatLngToObject(center),
